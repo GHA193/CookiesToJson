@@ -1,0 +1,2 @@
+# CookiesToJson
+将cookies转成json格式供EditThisCookies使用
